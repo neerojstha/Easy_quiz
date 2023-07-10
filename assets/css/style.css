@@ -6,6 +6,30 @@ body {
   h1 {
     text-align: center;
   }
+
+.title {
+  text-align: center;
+  color: #333;
+  font-family: "Arial", sans-serif;
+  font-size: 36px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.title i {
+    margin-right: 10px;
+    color: gold;
+  }
+
+.title-image {
+    width: 250px; /* Adjust the width as needed */
+    height: 250px; /* Adjust the height as needed */
+    vertical-align: middle;
+    margin-right: 10px; /* Add spacing between the image and text */
+    border-radius: 50%; /* Apply a circular shape to the image */
+  }
   
   #quiz {
     margin-bottom: 20px;
@@ -44,7 +68,6 @@ body {
     margin-bottom: 20px;
   }
   
-  .submit-btn {
+  .submit-1 {
     margin-top: 20px;
   }
-  
