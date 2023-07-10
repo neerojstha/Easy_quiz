@@ -24,11 +24,11 @@ body {
   }
 
 .title-image {
-    width: 250px; /* Adjust the width as needed */
-    height: 250px; /* Adjust the height as needed */
+    width: 250px; 
+    height: 250px;
     vertical-align: middle;
-    margin-right: 10px; /* Add spacing between the image and text */
-    border-radius: 50%; /* Apply a circular shape to the image */
+    margin-right: 10px; 
+    border-radius: 50%; 
   }
   
   #quiz {
@@ -69,5 +69,11 @@ body {
   }
   
   .submit-1 {
-    margin-top: 20px;
+    margin-top: 40px;
+    background-color: red;
+
   }
+
+footer {
+    text-align: center;
+}
